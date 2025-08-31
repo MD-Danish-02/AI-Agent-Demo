@@ -8,7 +8,7 @@ This project demonstrates an **AI-powered Inventory Management Agent** that can 
 This screenshot provides a **preview of the AI agent interface along with the n8n workflow connections**. It shows how different nodes are connected to fetch inventory data, process user commands, and interact with the AI API. This overview highlights the backend automation that powers the AI agent. [View on GitHub](Inventry_Management_AI_Agent/images/Preview.png)
 
 **2. `ChatAccess[URL].png`**  
-This image shows how the AI agent can be accessed via a web interface or URL. Users can start a session from this link to interact with the agent for inventory-related tasks, such as checking stock, updating quantities, or generating reports.
+This image shows how the AI agent can be accessed via a web interface or URL. Users can start a session from this link to interact with the agent for inventory-related tasks, such as checking stock, updating quantities, or generating reports. [View on GitHub]()
 
 **3. `ChatWithAIAgent.png`**  
 This screenshot demonstrates a **successful chat session** with the AI agent. The agent responds accurately to user queries and commands, showing the intended functionality when the API is working correctly.
