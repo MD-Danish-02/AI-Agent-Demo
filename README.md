@@ -17,7 +17,7 @@ This screenshot demonstrates a **successful chat session** with the AI agent. Th
 This image shows the scenario when the AI agent is not running. If the backend server or AI service is offline, users cannot interact with the agent. In this project, this can also happen due to API usage limitations on the free plan, which temporarily blocks responses. Make sure the application is running to restore functionality. [View on GitHub](Inventry_Management_AI_Agent/images/ChatnotRunning.png)
 
 **5. `InactiveChat.png`**  
-This screenshot displays the chat interface in an inactive or unresponsive state. this due to API usage limitations on the free plan that prevent the AI from responding. Refreshing or restarting the session usually restores interactivity. [View on GitHub]()
+This screenshot displays the chat interface in an inactive or unresponsive state. this due to API usage limitations on the free plan that prevent the AI from responding. Refreshing or restarting the session usually restores interactivity. [View on GitHub](Inventry_Management_AI_Agent/images/InactiveChat.png)
 
 **6. `OpenAIkeylimitReach.png`**  
 This image highlights an **API usage limitation**. Since the AI agent uses a free API plan, it may block responses after only a few requests. This is expected behavior for free plans and does **not** indicate a problem with the AI agent itself. All other functionalities are working perfectly.
