@@ -1,6 +1,6 @@
 # Inventory Management AI Agent
 
-This project demonstrates an **AI-powered Inventory Management Agent** that can interact with users to manage stock, answer queries, and provide guidance. The system is integrated with **n8n workflows** and uses a **free AI API** to generate responses. Due to the limitations of the free API plan, the agent may stop responding after a few requests.
+This project demonstrates an **AI-powered Inventory Management Agent** that can interact with users to manage stock, answer queries, and provide guidance. The system is integrated with **n8n workflows** and uses a **free AI API** to generate responses. Due to the limitations of the free API plan, the agent may stop responding after a few requests. **Apart from these API limitations, the AI Agent works perfectly and all other functionalities are fully operational.**
 
 ## Screenshots & Explanation
 
@@ -20,7 +20,7 @@ This image shows the scenario when the AI agent is **not running**. If the backe
 This screenshot displays the chat interface in an **inactive or unresponsive state**. This can happen due to network issues, session timeouts, or temporary unavailability of the AI service. Refreshing or restarting the session restores interactivity.
 
 **6. `OpenAIkeylimitReach.png`**  
-This image highlights an **API usage limitation**. Since the AI agent uses a free API plan, it may block responses after only a few requests. This is expected behavior for free plans and can be resolved by either waiting for the quota to reset or upgrading to a paid plan.
+This image highlights an **API usage limitation**. Since the AI agent uses a free API plan, it may block responses after only a few requests. This is expected behavior for free plans and does **not** indicate a problem with the AI agent itself. All other functionalities are working perfectly.
 
 ## How to Run Locally
 
