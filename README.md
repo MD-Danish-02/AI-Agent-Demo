@@ -14,7 +14,7 @@ This image shows how the AI agent can be accessed via a web interface or URL. Us
 This screenshot demonstrates a **successful chat session** with the AI agent. The agent responds accurately to user queries and commands, showing the intended functionality when the API is working correctly. [View on GitHub](Inventry_Management_AI_Agent/images/ChatWithAIAgent.png)
 
 **4. `ChatnotRunning.png`**  
-This image shows the scenario when the AI agent is not running. If the backend server or AI service is offline, users cannot interact with the agent. In this project, this can also happen due to API usage limitations on the free plan, which temporarily blocks responses. Make sure the application is running to restore functionality.
+This image shows the scenario when the AI agent is not running. If the backend server or AI service is offline, users cannot interact with the agent. In this project, this can also happen due to API usage limitations on the free plan, which temporarily blocks responses. Make sure the application is running to restore functionality. [View on GitHub]()
 
 **5. `InactiveChat.png`**  
 This screenshot displays the chat interface in an inactive or unresponsive state. this due to API usage limitations on the free plan that prevent the AI from responding. Refreshing or restarting the session usually restores interactivity.
